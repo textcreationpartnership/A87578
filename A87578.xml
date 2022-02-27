@@ -1,0 +1,288 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Jesuits ghost, with the prayer of the Turkish monarch to Christ through which he obtained a mighty victory against the papists, at the field of Varna, occasioned by their wicked perjury, in breaking that league they had so solemnly sworn to keep / written by R.C.</title>
+            <author>R. C.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87578</idno>
+            <idno type="STC">Wing J715B</idno>
+            <idno type="STC">ESTC R42517</idno>
+            <idno type="EEBO-CITATION">36282212</idno>
+            <idno type="OCLC">ocm 36282212</idno>
+            <idno type="VID">150100</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87578)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150100)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2230:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Jesuits ghost, with the prayer of the Turkish monarch to Christ through which he obtained a mighty victory against the papists, at the field of Varna, occasioned by their wicked perjury, in breaking that league they had so solemnly sworn to keep / written by R.C.</title>
+                  <author>R. C.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Wallis, for the author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>First part in verse.</note>
+                  <note>Signature: A⁴.</note>
+                  <note>Reproduction of original in the William Andrews Clark Memorial Library, University of California, Los Angeles.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Murat --  II, --  Sultan of the Turks, 1404-1451.</term>
+               <term>Anti-Catholicism.</term>
+               <term>Varna, Battle of, 1444 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:150100:1"/>
+            <p>THE Jeſuits Ghoſt, WITH THE PRAYER OF THE <hi>Turkiſh Monarch</hi> TO CHRIST.</p>
+            <p>Through which he Obtained a Mighty Victory againſt the Papiſts, at the Field of <hi>VARNA.</hi>
+            </p>
+            <p>Occaſioned by their wicked Perjury, in Breaking that League they had ſo Solemnly Sworn to Keep.</p>
+            <p>Written by <hi>R. C.</hi>
+            </p>
+            <p>
+               <hi>LONDON.</hi> Printed by <hi>John Wallis,</hi> for the Author. 1689.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:150100:2"/>
+            <pb n="3" facs="tcp:150100:2"/>
+            <head>
+               <hi>THE</hi> JES<g ref="char:V">Ʋ</g>IT'S GHOST.</head>
+            <lg>
+               <l>FRom reſtleſs ſhades, my trembling Ghoſt aſcends,</l>
+               <l>To viſit Earth and ſome peculiar Friends,</l>
+               <l>Now all things are at reſt and quiet found,</l>
+               <l>I only riſe and walk the ſilent round,</l>
+               <l>In this Dark moment I'll the matter end;</l>
+               <l>For which the Bull does with the <hi>Teſt</hi> contend;</l>
+               <l>And <hi>Romes</hi> Religion open from the root,</l>
+               <l>Whoſe branches flouriſh with Forbiden Fruit,</l>
+               <l>And ſuch as puts ev'n Heaven to the Bluſh,</l>
+               <l>Who does their Actions with juſt anger cruſh.</l>
+               <l>Can they with great Omnipotence prevail</l>
+               <l>Who Daily Vows with Bloody Victims Seal?</l>
+               <l>Or he be Preſident, to ſuch as have</l>
+               <l>So many hundred back-ways to the Grave?</l>
+               <l>To Kill an Heretick, they 'count no more,</l>
+               <l>Than to Debauch, and then Abſolve a Whore.</l>
+               <l>Tho' what's expected but a Tyburn rod.</l>
+               <l>From greedy Preiſts that Eat and Drink their God,</l>
+               <l>In Maſſacres their cruel rage out-flies</l>
+               <l>Softning tears of beautious Virgins Eyes,</l>
+               <l>Could they proceed in their unhuman way,</l>
+               <l>They'd turn the World into a <hi>Golgotha,</hi>
+               </l>
+               <l>
+                  <note n="*" place="bottom">
+                     <hi>Phocus,</hi> when he had by the help of <hi>Boniface</hi> Biſhop of <hi>Rome,</hi> Mardered <hi>Maricius</hi> the Emperor and all his Child<g ref="char:EOLhyphen"/>ren, and Seated himſelf on the Throne, in requital for his aſſiſtance in ſo Barbarous a murder, made <hi>Boniface</hi> Pope, then call'd Vniverſal Biſhop.</note>By Murder firſt the Pope, aſſum'd his Throne,</l>
+               <l>Since to what rage is Superſtition grown,</l>
+               <pb n="4" facs="tcp:150100:3"/>
+               <l>On his Dark Reign, Oppreſſions Duely wait,</l>
+               <l>Like Peſtilential Air to blaſt a State,</l>
+               <l>When Sword, and Powder fails, than Fire muſt</l>
+               <l>Lay ſplendid Cities level with the Duſt:</l>
+               <l>Of Perjury allow, and pardon too,</l>
+               <l>So much deteſted by the <hi>Turk</hi> and <hi>Jew:</hi>
+               </l>
+               <l>But <hi>Varna</hi> ſure might ſilence this blind work,</l>
+               <l>When Chriſt gave that great Battle to the <hi>Turk.</hi>
+               </l>
+               <l>The ſpacious field with Popiſh blood was dy'd,</l>
+               <l>And Conquering <hi>Amurath</hi> did in Triumph ride,</l>
+               <l>Whilſt Heav'n ſtood Neuter, the <hi>Hungarian</hi> Sword</l>
+               <l>Victorious grew, but the high injur'd Lord,</l>
+               <l>Viewing the League the perjur'd <hi>Chriſtians</hi> broke,</l>
+               <l>Grew pale with anger at the impious Work.</l>
+               <l>Condemn'd the crime and they receiv'd their doom,</l>
+               <l>From the rough Sons of the Loud Cannons Womb:</l>
+               <l>But theſe are meritorious Acts in them,</l>
+               <l>Yet what themſelves in others do Condemn:</l>
+               <l>Their Giddy zeal conſiſts on bits of Wood,</l>
+               <l>
+                  <note n="*" place="bottom">The Croſs of <hi>Chriſt</hi> was carried by one Man at firſt, and in all the <hi>Abbys Monaſteries,</hi> and <hi>Cells &amp;c.</hi> there are ſo many pieces of it, as if they were Solid would build a Ship of a <hi>1000 Tun. 3</hi> Nails were only uſed in the Crucifying our Bleſſed <hi>Saviour,</hi> yet they produce as many Nails as are needful in the Building of ſuch a Ship.</note> On Croſſes, Nails, and reliques of the good:</l>
+               <l>In fine and coſtly Robes, in gaudy paint,</l>
+               <l>To deck and beautify the Idol Saint,</l>
+               <l>In Gilded Temples, <hi>Incenſe,</hi> rich perfume,</l>
+               <l>As if this World was the <hi>Elizium.</hi>
+               </l>
+               <l>So Dazling Lights delude the ſilly fly,</l>
+               <l>Who hov'ring courts the flame untill it die:</l>
+               <l>But I, in vain, theſe fallacies deplore;</l>
+               <l>Beyond the Grave repentance hath no pow'r,</l>
+               <pb n="5" facs="tcp:150100:3"/>
+               <l>Were I to live again I'd then extol,</l>
+               <l>That part of heav'nly breath the pretious Soul,</l>
+               <l>And all my pious thoughts with heav'n engage,</l>
+               <l>And ſhun the flaſhy Prieſt-craft of the age,</l>
+               <l>Which, juſt Like bubbles, bore up by the Air,</l>
+               <l>Look beautifull and break, then diſ-appear.</l>
+            </lg>
+            <lg>
+               <l>This daring Nation when we'd thoughts to bring</l>
+               <l>To <hi>Romes</hi> obedience as an offr'ing,</l>
+               <l>We and the angry Dame in Council ſat,</l>
+               <l>As if we wou'd unweave the Lume of Fate,</l>
+               <l>The <hi>Cyclops</hi> when for mighty <hi>Jove</hi> they wrought,</l>
+               <l>Was not ſo toil'd and full of various thought,</l>
+               <l>Then all our minutes buſie were, and we,</l>
+               <l>To Helliſh Stratagems gave Liberty,</l>
+               <l>Perfidious <hi>Petres</hi> with a Fawning ſmile,</l>
+               <l>Said, Heaven decrees for us this wealthy Iſle,</l>
+               <l>Than for the promis'd Land he boldly preſt,</l>
+               <l>Cried out 'tis time, 'tis time we were poſſeſt,</l>
+               <l>Poſt on he rid through fiery Zeal pretends,</l>
+               <l>Gold was his Guide, at Hell his Journey ends,</l>
+               <l>So ſmooth to his kind Prince he made the way:</l>
+               <l>He Little thought rank Treaſon in it Lay,</l>
+               <l>But Traytors, like falſe Coin, do fair appear</l>
+               <l>To all mens eyes but the Diſcoverer.</l>
+            </lg>
+            <lg>
+               <l>Seduc'd the King his Nobles to Decline,</l>
+               <l>Who are the Light by which all <hi>Monarchs</hi> ſhine,</l>
+               <l>None but falſe ſtones, no not one Glorious <hi>Gem,</hi>
+               </l>
+               <l>Was left to ſparkle in his Diadem.</l>
+               <l>The <hi>Teſt</hi> and <hi>Penal-Laws</hi> we muſt have down,</l>
+               <l>And not one man of Sence muſt ware a Gown;</l>
+               <l>Thus to our tickling <hi>Magick</hi> we gave way,</l>
+               <l>Till we rais'd Spirits that we could not Lay,</l>
+               <l>Juſt as the <hi>Devil</hi> did the project Start,</l>
+               <l>In our <hi>Cabal</hi> we had his Counterpart:</l>
+               <pb n="6" facs="tcp:150100:4"/>
+               <l>Famous for Bawling, and ſuſpected wiſe,</l>
+               <l>Tho' one grain of Sence is worth a pound of Noiſe,</l>
+               <l>This precious Plant ſo worthy to be prais'd</l>
+               <l>Upon <hi>White-Chapel</hi> Dunghill firſt was rais'd:</l>
+               <l>Yet was the third great Engineer of State</l>
+               <l>Pick'd out to ruine the <hi>Immaculate,</hi>
+               </l>
+               <l>And <hi>Divine Church,</hi> that like a timely Spring</l>
+               <l>Raiſes from Darkneſs every Living thing;</l>
+               <l>By Lawleſs pow'r he ſtrove to Undermine,</l>
+               <l>But Heaven did Fruſtrate the Damn'd deſign,</l>
+               <l>Reſenting that to their Defame alone,</l>
+               <l>For what's the <hi>Caſket</hi> when the Jewel's gone?</l>
+               <l>Even in the Nick of time, Heav'n gave the word:</l>
+               <l>As <hi>Iſaac</hi>'s Angel ſtopt his Fathers Sword,</l>
+               <l>So the <hi>Prophetick Froſt</hi> did ſubject bring</l>
+               <l>To its Chill Scepter every humid thing.</l>
+               <l>All bodies faſt in that <hi>Cold Chain</hi> were bound,</l>
+               <l>No Spring to murmur, unleſs under ground;</l>
+               <l>But in a trice Diſſolv'd this Tyrants Pow'r</l>
+               <l>Whoſe Ruins flouriſh in his Conquerour.</l>
+               <l>And you who for Eternal Bleſſings call,</l>
+               <l>Look up, repent, make no Demur at all,</l>
+               <l>But to the Sacred Church obedient be,</l>
+               <l>Heavens bright Cealing is their <hi>Canopie.</hi>
+               </l>
+               <l>In threatning ſtorms their pious Luſtre ſhew'd,</l>
+               <l>Like Stars that Glitter through a Gloomy Cloud;</l>
+               <l>But <hi>Rome</hi>'s blind Zeal depends on Beads and Toys,</l>
+               <l>Impious Nacks more fit for Apeiſh Boys,</l>
+               <l>Than means to Compaſs Everlaſting Joys,</l>
+               <l>Hark! <hi>Pluto</hi> calls, the <hi>Stygian</hi> Furies quake.</l>
+               <l>The Guilty Howl, in that <hi>Sulphureous</hi> Lake,</l>
+               <l>I muſt deſcend to his Imperial Thron,</l>
+               <l>Yet when I'm there, he's Jealous of his Crown.</l>
+            </lg>
+         </div>
+         <div type="text">
+            <pb n="7" facs="tcp:150100:4"/>
+            <head>THE Breaking of the LEAGUE.</head>
+            <p>A League being made for ten Years between <hi>A<g ref="char:EOLhyphen"/>murath,</hi> Sixth King of the <hi>Turks,</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>ladis<g ref="char:EOLhyphen"/>laus,</hi> King of <hi>Hungaria:</hi> one Swearing upon the Holy <hi>Evangeliſts,</hi> the other upon the <hi>Alcoran. Amurath</hi> departed with his Army againſt <hi>Scanderbeg:</hi> not long after the <hi>Hungarian</hi> Clergy finding an advantage in the <hi>Turks</hi> abſence. <hi>Julian</hi> the <hi>Cardi<g ref="char:EOLhyphen"/>nal</hi> and the reſt of his Hopeful Brethren, perſwadeth King <hi>
+                  <g ref="char:V">Ʋ</g>ladiſlaus</hi> to break the League, telling him no<g ref="char:EOLhyphen"/>thing could be more fond or inconſiderate, than in their Conſultation to have regard to their private profit only, and not to the Publick, with<g ref="char:EOLhyphen"/>out reſpect of Religion, Honeſty, or Conſciene <hi>&amp;c.</hi> Thus getting the conſent of the <hi>King,</hi> the <hi>Cardinal</hi> abſolved him, who after March'd with a very great Army into the <hi>Turks</hi> Dominion. <hi>Huniades</hi> being General, which <hi>Amurath</hi> hearing of, prepared to meet 'em, and the Armies Engaged at the Field of <hi>Varna,</hi> where there was a Bloody and deſperate Battle Fought, in which the <hi>Chriſtians</hi> had the beſt for the moſt part of the Day; ſo that <hi>Amurath</hi> thought of nothing but Flight, and ſeeing the <hi>Chriſtian</hi> Enſigns Diſplayed with the <hi>Crucifix,</hi> pluckt the Writing out of his Boſome, wherein the Late League was Compriſed, and holding it up in his hand with his eyes caſt up to Heaven, Said</p>
+            <p>
+               <hi>Behold thou</hi> Crucified Chriſt, <hi>this is the League the</hi> Chriſtians, <hi>in thy Name, made with me: which they
+<pb n="8" facs="tcp:150100:5"/>have, without Cauſe, violated: Now if thou be a God, as they ſay thou art, and as we Dream, revenge the wrong done unto thy Name, and me, and ſhew thy Power upon thy Per<g ref="char:EOLhyphen"/>jured People, who in their Deeds deny thee their God.</hi>
+            </p>
+            <p>No ſooner had <hi>Amurath</hi> ended this Prayer, but the Battle turn'd, and the <hi>Chriſtians</hi> were totaly routed. <hi>
+                  <g ref="char:V">Ʋ</g>ladislaus</hi> kill'd, <hi>Huniades</hi> fled, <hi>Julian</hi> the <hi>Cardinal,</hi> the Biſhop of <hi>Veradiun,</hi> and the Biſhop of <hi>Agria,</hi> with moſt of the Clergy, all ſlain, who were the only Authors of that unjuſt War: And for all the King of <hi>Hungaria</hi> broke the League, and Invaded <hi>Amurath,</hi> yet he, by reaſon of his Oath, reſigned his Kingdom up to his Son, of which you may ſee more at Large in the Reign of <hi>Amurath</hi> Pag. 277.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:150100:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
